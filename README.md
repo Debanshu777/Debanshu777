@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Debanshu 👋
 
-<!--
-**Debanshu777/Debanshu777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=Debanshu777&style=flat-square)
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/debanshu.datta%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+Talking about Personal Stuff:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a few Android projects.
+- 🌱 I’m currently learning Data Science.
+- 💬 Ask me about Android Development(Java/Kotlin), Flutter, Data Science and Technology in general.
+- 😄 Pronouns: He / Him / Bro / Dude.
+- ⚡ Fun fact: Sleeping is my favourite hobby besides coding
+
