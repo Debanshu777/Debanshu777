@@ -23,5 +23,9 @@ Talking about Personal Stuff:
 - 😄 Pronouns: He / Him / Bro / Dude.
 - ⚡ Fun fact: Sleeping is my favourite hobby besides coding
 
-[![Debanshu's github stats](https://github-readme-stats.vercel.app/api?username=Debanshu777)]
+<table>
+  <tr>
+    <td>![Debanshu's github stats](https://github-readme-stats.vercel.app/api?username=Debanshu777&count_private=true)</td>
+     <td>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Debanshu777)</td>  </tr>
+</table>
 
