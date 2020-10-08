@@ -53,7 +53,7 @@
     </tr>    
 </table>
 
-![Debanshu's github stats](https://github-readme-stats.vercel.app/api?username=Debanshu777&count_private=true)
+<div style="text-align: top-left">![Debanshu's github stats](https://github-readme-stats.vercel.app/api?username=Debanshu777&count_private=true)</div>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Debanshu777)
 
 
