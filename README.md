@@ -2,17 +2,17 @@
 
 ![](https://komarev.com/ghpvc/?username=Debanshu777&style=flat-square)
 
-<a href="">
-<img src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+<a href="https://twitter.com/DattaDebanshu">
+  <img align="left" alt="Debanshu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="">
-<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/debanshu-datta-483376169/">
+  <img align="left" alt="Debanshu's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="">
-<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://www.instagram.com/debanshu.datta">
+  <img align="left" alt="Debanshu's Instagram" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="">
-<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/>
+<a href="https://medium.com/@debanshudatta123">
+  <img align="left" alt="Debanshu's Instagram" width="22px" height="22px" src="https://simpleicons.org/icons/medium.svg" />
 </a>
 
 #### Talking about Personal Stuff:
