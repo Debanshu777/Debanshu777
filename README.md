@@ -55,7 +55,7 @@
         <td align="center"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></td>
     </tr> 
 </table>
-[![Spotify](https://novatorem.debanshu777.vercel.app/)](https://open.spotify.com/user/wex8xjk0lgc4m948k3cb68xe8)
+[![Spotify](https://novatorem.debanshu777.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 ![Debanshu's github stats](https://github-readme-stats.vercel.app/api?username=Debanshu777&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Debanshu777)
 
