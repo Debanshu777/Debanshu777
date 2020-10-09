@@ -54,9 +54,9 @@
     </tr> 
 </table>
 
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=wex8xjk0lgc4m948k3cb68xe8&count=2&width=300"/>
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=wex8xjk0lgc4m948k3cb68xe8&count=2&width=500"/>
 <img src="https://github-readme-stats.vercel.app/api?username=Debanshu777&count_private=true"/>
 <br>
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Debanshu777)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debanshu777" align="right"/>
 
