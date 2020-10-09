@@ -11,6 +11,8 @@
 <a href="https://medium.com/@debanshudatta123">
   <img align="left" alt="Debanshu's Instagram" width="22px" height="22px" src="https://simpleicons.org/icons/medium.svg" />
 </a>
+<br>
+<br>
 ![](https://komarev.com/ghpvc/?username=Debanshu777&style=flat-square)
 
 <br>
@@ -56,5 +58,7 @@
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=wex8xjk0lgc4m948k3cb68xe8&count=2&width=300)
 ![Debanshu's github stats](https://github-readme-stats.vercel.app/api?username=Debanshu777&count_private=true)
-
+<br>
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Debanshu777)
 
