@@ -53,8 +53,7 @@
         <td align="center"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></td>
     </tr> 
 </table>
-
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=wex8xjk0lgc4m948k3cb68xe8&count=2&width=300"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Debanshu777&count_private=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debanshu777" align="right"/>
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=wex8xjk0lgc4m948k3cb68xe8&count=2&width=300" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Debanshu777&count_private=true" align="left"/>
 
