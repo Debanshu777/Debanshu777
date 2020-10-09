@@ -26,14 +26,8 @@ and leverage them to solve real-life problems. Apart from that I also love to gu
 mentor newbies 👨🏻‍💻.
 
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;">
-    <iframe src="https://giphy.com/embed/26DoiqmYcxgFICb3G" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
-    </iframe>
-</div>
-<p>
-    <a href="https://giphy.com/gifs/art-loop-trippy-26DoiqmYcxgFICb3G">via GIPHY
-    </a>
-</p>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/26DoiqmYcxgFICb3G/giphy.gif" height=300 width=300/>
+
 ### Talking about Personal Stuff:
 
 - 🔭 I’m currently working on a few Android Development projects.
@@ -73,15 +67,7 @@ mentor newbies 👨🏻‍💻.
     </tr> 
 </table> 
 
-<details>
-  <summary>:zap: Blog Posts</summary>
-  
-### Blog Posts:
-<a href="https://medium.com/@debanshudatta123">
-<img src="https://github-readme-medium.vercel.app/?username=debanshudatta123&limit=3"/>
-</a>
-</details>
-
+### Some facts:
 <table>
     <tr>
         <td>
@@ -94,3 +80,12 @@ mentor newbies 👨🏻‍💻.
         <td><img src="https://github-readme-stats.vercel.app/api?username=Debanshu777&count_private=true&theme=dark&show_icons=true" align="center"/></td>
     </tr>
 </table>
+
+<details>
+  <summary>:zap: Blog Posts</summary>
+  
+### Blog Posts:
+<a href="https://medium.com/@debanshudatta123">
+<img src="https://github-readme-medium.vercel.app/?username=debanshudatta123&limit=3"/>
+</a>
+</details>
