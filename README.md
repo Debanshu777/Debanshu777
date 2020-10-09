@@ -26,8 +26,14 @@ and leverage them to solve real-life problems. Apart from that I also love to gu
 mentor newbies 👨🏻‍💻.
 
 
-<img align="right" alt="GIF" src="https://giphy.com/gifs/26DoiqmYcxgFICb3G/html5" width="300" height="350" />
-
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;">
+    <iframe src="https://giphy.com/embed/26DoiqmYcxgFICb3G" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
+    </iframe>
+</div>
+<p>
+    <a href="https://giphy.com/gifs/art-loop-trippy-26DoiqmYcxgFICb3G">via GIPHY
+    </a>
+</p>
 ### Talking about Personal Stuff:
 
 - 🔭 I’m currently working on a few Android Development projects.
