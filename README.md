@@ -1,8 +1,8 @@
 <img src="https://github.com/Debanshu777/Debanshu777/blob/main/banner.png"/>
 <br>
 <table>
-    <tr  align="center>
-    <td>
+    <tr>
+    <td  align="center">
         <a href="https://twitter.com/DattaDebanshu">
         <img align="left" alt="Debanshu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
         </a>
@@ -19,9 +19,7 @@
     <tr>
 </table>
 <br>
-<br>
 <img src="https://komarev.com/ghpvc/?username=Debanshu777&style=flat-square"/>
-<br>
 <br>
 ### Talking about Personal Stuff:
 
@@ -31,9 +29,7 @@
 - 💬 Ask me about Android Development(Java/Kotlin), Flutter, Data Science and Technology in general.
 - 😄 Pronouns: He / Him / Bro / Dude.
 - ⚡ Fun fact: Sleeping is my favourite hobby besides coding
-
 <br>
-
 ### Languages and Tools:
 <table border="0" width="0">
     <tr>
@@ -61,18 +57,19 @@
         <td align="center"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></td>
     </tr> 
 </table>
-
+<br>
 ### Blog Posts:
-
+[![Debanshu's Medium](https://github-readme-medium.vercel.app/?username=debanshudatta123)](https://medium.com/@debanshudatta123)
+<br>
 <table>
     <tr>
         <td>
-            <img src="https://spotify-recently-played-readme.vercel.app/api?user=wex8xjk0lgc4m948k3cb68xe8&count=1&width=500" align="center"/>
+            <img src="https://spotify-recently-played-readme.vercel.app/api?user=wex8xjk0lgc4m948k3cb68xe8&count=2&width=500" align="center"/>
         </td>
         <td rowspan=2>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debanshu777" align="center"/></td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debanshu777&theme=dark" align="center"/></td>
     </tr>
     <tr>
-        <td><img src="https://github-readme-stats.vercel.app/api?username=Debanshu777&count_private=true" align="center"/></td>
+        <td><img src="https://github-readme-stats.vercel.app/api?username=Debanshu777&count_private=true&theme=dark&show_icons=true" align="center"/></td>
     </tr>
 </table>
