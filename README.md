@@ -1,7 +1,7 @@
-### Hi there, I'm Debanshu 👋
-
+<img src="https://github.com/Debanshu777/Debanshu777/blob/main/banner.png"/>
+<br>
 ![](https://komarev.com/ghpvc/?username=Debanshu777&style=flat-square)
-
+<br>
 <a href="https://twitter.com/DattaDebanshu">
   <img align="left" alt="Debanshu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -55,7 +55,7 @@
         <td align="center"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></td>
     </tr> 
 </table>
-!![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=wex8xjk0lgc4m948k3cb68xe8&count=2&width=300)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=wex8xjk0lgc4m948k3cb68xe8&count=2&width=300)
 ![Debanshu's github stats](https://github-readme-stats.vercel.app/api?username=Debanshu777&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Debanshu777)
 
