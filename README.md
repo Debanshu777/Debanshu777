@@ -22,10 +22,11 @@
 
 #### A little about me...  
 I'm an **Undergrad Student🎓 [@KIIT](https://kiit.ac.in/)** pursuing CSE. I love to explore new technologies<br>
-and leverage them to solve real-life problems. Apart from that I also love to guide and mentor newbies 👨🏻‍💻.
+and leverage them to solve real-life problems. Apart from that I also love to guide and <br>
+mentor newbies 👨🏻‍💻.
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/26DoiqmYcxgFICb3G/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/26DoiqmYcxgFICb3G/giphy.gif" width="300" height="350" />
 
 ### Talking about Personal Stuff:
 
@@ -66,12 +67,14 @@ and leverage them to solve real-life problems. Apart from that I also love to gu
     </tr> 
 </table> 
 
+<details>
+  <summary>:zap: Blog Posts</summary>
+  
 ### Blog Posts:
-<!-- BLOG-POST-LIST:START -->
 <a href="https://medium.com/@debanshudatta123">
-<img src="https://github-readme-medium.vercel.app/?username=debanshudatta123&limit=4"/>
+<img src="https://github-readme-medium.vercel.app/?username=debanshudatta123&limit=3"/>
 </a>
-<!-- BLOG-POST-LIST:END -->
+</details>
 
 <table>
     <tr>
