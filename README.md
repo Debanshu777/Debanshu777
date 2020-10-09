@@ -26,7 +26,7 @@ and leverage them to solve real-life problems. Apart from that I also love to gu
 mentor newbies 👨🏻‍💻.
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/26DoiqmYcxgFICb3G/giphy.gif" width="300" height="350" />
+<img align="right" alt="GIF" src="https://giphy.com/gifs/26DoiqmYcxgFICb3G/html5" width="300" height="350" />
 
 ### Talking about Personal Stuff:
 
