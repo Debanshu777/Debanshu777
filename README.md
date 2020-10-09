@@ -34,11 +34,9 @@ mentor newbies 👨🏻‍💻.
 - 🔭 I’m currently working on a few Android Development projects.
 - 🌱 I’m currently learning Data Science.
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- 💬 Ask me about Android Development(Java/Kotlin), Flutter,<br>
-     Data Science and Technology in general.
+- 💬 Ask me about Android Development(Java/Kotlin), Flutter, Data Science and Technology in general.
 - 😄 Pronouns: He / Him / Bro / Dude.
-- ⚡ Fun fact: I ❤️ Astrophysics, EDMs🎧 and like to try something <br>
-    new things everyday. 
+- ⚡ Fun fact: I ❤️ Astrophysics, EDMs🎧 and like to try something new everyday. 
 
 ### Languages and Tools:
 <table border="0" width="0">
