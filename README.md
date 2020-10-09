@@ -15,7 +15,9 @@
   <img align="left" alt="Debanshu's Instagram" width="22px" height="22px" src="https://simpleicons.org/icons/medium.svg" />
 </a>
 
-#### Talking about Personal Stuff:
+<br>
+
+### Talking about Personal Stuff:
 
 - 🔭 I’m currently working on a few Android Development projects.
 - 🌱 I’m currently learning Data Science.
@@ -24,7 +26,9 @@
 - 😄 Pronouns: He / Him / Bro / Dude.
 - ⚡ Fun fact: Sleeping is my favourite hobby besides coding
 
-#### Languages and Tools:
+<br>
+
+### Languages and Tools:
 <table border="0" width="0">
     <tr>
         <td align="center"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/></td>
@@ -51,7 +55,7 @@
         <td align="center"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></td>
     </tr> 
 </table>
-
+[![Spotify](https://novatorem.debanshu777.vercel.app/)](https://open.spotify.com/user/wex8xjk0lgc4m948k3cb68xe8)
 ![Debanshu's github stats](https://github-readme-stats.vercel.app/api?username=Debanshu777&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Debanshu777)
 
