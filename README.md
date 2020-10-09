@@ -56,9 +56,12 @@
 <table>
     <tr>
         <td>
-            <img src="https://spotify-recently-played-readme.vercel.app/api?user=wex8xjk0lgc4m948k3cb68xe8&count=2&width=300" align="left"/>
-            <img src="https://github-readme-stats.vercel.app/api?username=Debanshu777&count_private=true" align="left"/>
+            <img src="https://spotify-recently-played-readme.vercel.app/api?user=wex8xjk0lgc4m948k3cb68xe8&count=1&width=400" align="center"/>
         </td>
-        <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debanshu777" align="right"/></td>
+        <td rowspan=2>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debanshu777" align="center"/></td>
+    </tr>
+    <tr>
+        <td><img src="https://github-readme-stats.vercel.app/api?username=Debanshu777&count_private=true" align="center"/></td>
     </tr>
 </table>
