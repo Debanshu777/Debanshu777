@@ -1,5 +1,4 @@
 <img src="https://github.com/Debanshu777/Debanshu777/blob/main/banner.png"/>
-<br>
 <table>
     <tr>
     <td  align="center">
@@ -18,9 +17,10 @@
     </td>
     <tr>
 </table>
-<br>
+
 <img src="https://komarev.com/ghpvc/?username=Debanshu777&style=flat-square"/>
 <br>
+
 ### Talking about Personal Stuff:
 
 - 🔭 I’m currently working on a few Android Development projects.
@@ -30,6 +30,7 @@
 - 😄 Pronouns: He / Him / Bro / Dude.
 - ⚡ Fun fact: Sleeping is my favourite hobby besides coding
 <br>
+
 ### Languages and Tools:
 <table border="0" width="0">
     <tr>
@@ -58,13 +59,14 @@
     </tr> 
 </table>
 <br>
+
 ### Blog Posts:
-[![Debanshu's Medium](https://github-readme-medium.vercel.app/?username=debanshudatta123)](https://medium.com/@debanshudatta123)
+<img src="https://github-readme-medium.vercel.app/?username=debanshudatta123"/>
 <br>
 <table>
     <tr>
         <td>
-            <img src="https://spotify-recently-played-readme.vercel.app/api?user=wex8xjk0lgc4m948k3cb68xe8&count=2&width=500" align="center"/>
+            <img src="https://spotify-recently-played-readme.vercel.app/api?user=wex8xjk0lgc4m948k3cb68xe8&count=1&width=500" align="center"/>
         </td>
         <td rowspan=2>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debanshu777&theme=dark" align="center"/></td>
