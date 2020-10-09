@@ -21,7 +21,8 @@
 <img src="https://komarev.com/ghpvc/?username=Debanshu777&style=flat-square"/>
 
 #### A little about me...  
-I'm an **Undergrad Student🎓 [@KIIT](https://kiit.ac.in/)** pursuing CSE. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻.
+I'm an **Undergrad Student🎓 [@KIIT](https://kiit.ac.in/)** pursuing CSE. I love to explore new technologies and leverage them 
+to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻.
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/26DoiqmYcxgFICb3G/giphy.gif" />
@@ -31,9 +32,11 @@ I'm an **Undergrad Student🎓 [@KIIT](https://kiit.ac.in/)** pursuing CSE. I lo
 - 🔭 I’m currently working on a few Android Development projects.
 - 🌱 I’m currently learning Data Science.
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- 💬 Ask me about Android Development(Java/Kotlin), Flutter, Data Science and Technology in general.
+- 💬 Ask me about Android Development(Java/Kotlin), Flutter,
+     Data Science and Technology in general.
 - 😄 Pronouns: He / Him / Bro / Dude.
-- ⚡ Fun fact: I ❤️ Astrophysics, EDMs🎧 and like to try something new things everyday. 
+- ⚡ Fun fact: I ❤️ Astrophysics, EDMs🎧 and like to try something 
+    new things everyday. 
 
 ### Languages and Tools:
 <table border="0" width="0">
@@ -61,15 +64,14 @@ I'm an **Undergrad Student🎓 [@KIIT](https://kiit.ac.in/)** pursuing CSE. I lo
         <td align="center"><img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/></td>
         <td align="center"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></td>
     </tr> 
-</table>
---- 
+</table> 
 
 ### Blog Posts:
+<!-- BLOG-POST-LIST:START -->
 <a href="https://medium.com/@debanshudatta123">
 <img src="https://github-readme-medium.vercel.app/?username=debanshudatta123&limit=4"/>
 </a>
-
----
+<!-- BLOG-POST-LIST:END -->
 
 <table>
     <tr>
