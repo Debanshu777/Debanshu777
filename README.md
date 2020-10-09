@@ -13,9 +13,7 @@
 </a>
 <br>
 <br>
-![](https://komarev.com/ghpvc/?username=Debanshu777&style=flat-square)
-
-<br>
+<img src="https://komarev.com/ghpvc/?username=Debanshu777&style=flat-square"/>
 
 ### Talking about Personal Stuff:
 
@@ -56,8 +54,8 @@
     </tr> 
 </table>
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=wex8xjk0lgc4m948k3cb68xe8&count=2&width=300)
-![Debanshu's github stats](https://github-readme-stats.vercel.app/api?username=Debanshu777&count_private=true)
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=wex8xjk0lgc4m948k3cb68xe8&count=2&width=300"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Debanshu777&count_private=true"/>
 <br>
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Debanshu777)
