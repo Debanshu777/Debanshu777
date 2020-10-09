@@ -19,7 +19,6 @@
 </table>
 
 <img src="https://komarev.com/ghpvc/?username=Debanshu777&style=flat-square"/>
-<br>
 
 ### Talking about Personal Stuff:
 
@@ -29,7 +28,6 @@
 - 💬 Ask me about Android Development(Java/Kotlin), Flutter, Data Science and Technology in general.
 - 😄 Pronouns: He / Him / Bro / Dude.
 - ⚡ Fun fact: Sleeping is my favourite hobby besides coding
-<br>
 
 ### Languages and Tools:
 <table border="0" width="0">
@@ -58,11 +56,12 @@
         <td align="center"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></td>
     </tr> 
 </table>
-<br>
 
 ### Blog Posts:
-<img src="https://github-readme-medium.vercel.app/?username=debanshudatta123"/>
-<br>
+<a href="https://medium.com/@debanshudatta123">
+<img src="https://github-readme-medium.vercel.app/?username=debanshudatta123&limit=2"/>
+</a>
+
 <table>
     <tr>
         <td>
