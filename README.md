@@ -1,5 +1,4 @@
 <img src="https://github.com/Debanshu777/Debanshu777/blob/main/banner.png"/>
-![](https://komarev.com/ghpvc/?username=Debanshu777&style=flat-square)
 <a href="https://twitter.com/DattaDebanshu">
   <img align="left" alt="Debanshu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -12,6 +11,7 @@
 <a href="https://medium.com/@debanshudatta123">
   <img align="left" alt="Debanshu's Instagram" width="22px" height="22px" src="https://simpleicons.org/icons/medium.svg" />
 </a>
+![](https://komarev.com/ghpvc/?username=Debanshu777&style=flat-square)
 
 <br>
 
@@ -55,5 +55,6 @@
 </table>
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=wex8xjk0lgc4m948k3cb68xe8&count=2&width=300)
+![Debanshu's github stats](https://github-readme-stats.vercel.app/api?username=Debanshu777&count_private=true)
 
 
