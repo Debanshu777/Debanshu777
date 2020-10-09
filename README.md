@@ -21,8 +21,8 @@
 <img src="https://komarev.com/ghpvc/?username=Debanshu777&style=flat-square"/>
 
 #### A little about me...  
-I'm an **Undergrad Student🎓 [@KIIT](https://kiit.ac.in/)** pursuing CSE. I love to explore new technologies and leverage them 
-to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻.
+I'm an **Undergrad Student🎓 [@KIIT](https://kiit.ac.in/)** pursuing CSE. I love to explore new technologies<br>
+and leverage them to solve real-life problems. Apart from that I also love to guide and mentor newbies 👨🏻‍💻.
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/26DoiqmYcxgFICb3G/giphy.gif" />
@@ -32,10 +32,10 @@ to solve real-life problems ✨. Apart from that I also love to guide and mentor
 - 🔭 I’m currently working on a few Android Development projects.
 - 🌱 I’m currently learning Data Science.
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- 💬 Ask me about Android Development(Java/Kotlin), Flutter,
+- 💬 Ask me about Android Development(Java/Kotlin), Flutter,<br>
      Data Science and Technology in general.
 - 😄 Pronouns: He / Him / Bro / Dude.
-- ⚡ Fun fact: I ❤️ Astrophysics, EDMs🎧 and like to try something 
+- ⚡ Fun fact: I ❤️ Astrophysics, EDMs🎧 and like to try something <br>
     new things everyday. 
 
 ### Languages and Tools:
