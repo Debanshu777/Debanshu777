@@ -20,13 +20,14 @@
 
 <img src="https://komarev.com/ghpvc/?username=Debanshu777&style=flat-square"/>
 
+<img align="right" alt="GIF" src="https://github.com/Debanshu777/Debanshu777/blob/main/giphy.gif" height=300 width=300/>
+
 #### A little about me...  
 I'm an **Undergrad Student🎓 [@KIIT](https://kiit.ac.in/)** pursuing CSE. I love to explore new technologies<br>
 and leverage them to solve real-life problems. Apart from that I also love to guide and <br>
 mentor newbies 👨🏻‍💻.
 
 
-<img align="right" alt="GIF" src="https://github.com/Debanshu777/Debanshu777/blob/main/giphy.gif" height=300 width=300/>
 
 ### Talking about Personal Stuff:
 
