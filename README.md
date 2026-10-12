@@ -5,7 +5,7 @@
         <a href="https://twitter.com/DattaDebanshu">
             <img align="left" alt="Debanshu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
         </a>
-        <a href="https://www.linkedin.com/in/debanshu-datta-483376169/">
+        <a href="https://www.linkedin.com/in/debanshudatta/">
             <img align="left" alt="Debanshu's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
         </a>
         <a href="https://www.instagram.com/debanshu.datta">
@@ -39,7 +39,7 @@ I'm an Android Engineer 2 at [Groww](https://github.com/Groww), building with **
 - [GPU shader effects for Compose Multiplatform with ShaderX](https://medium.com/gitconnected/building-gpu-shader-effects-for-compose-multiplatform-from-scratch-to-shaderx-326659c4f47b)
 - [CameraX with Jetpack Compose: preview, zoom and flash](https://medium.com/proandroiddev/build-a-concurrent-camera-with-camerax-jetpack-compose-part-1-preview-zoom-flash-820de32737e8)
 
-[Read all articles on Medium](https://debanshudatta.medium.com/) · [Connect on LinkedIn](https://www.linkedin.com/in/debanshu-datta-483376169/)
+[Read all articles on Medium](https://debanshudatta.medium.com/) · [Connect on LinkedIn](https://www.linkedin.com/in/debanshudatta/)
 
 - 📩 You can find me at <a href ="https://twitter.com/DattaDebanshu">@DattaDebanshu</a> on twitter - [debanshudatta123@gmail.com](mailto:debanshudatta123@gmail.com)
 - ⚡ Fun fact: I ❤️ Astrophysics, EDMs🎧 and like to try something new everyday. 
